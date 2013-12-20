@@ -1,10 +1,12 @@
-iOSList – The jQuery iOS (iPhone/iPad/iPod) Alphabetical Contact List
+#its not ready yet.
 
-For more information visit:
+iOSListAndPullToRefresh contains a number of updates that I've made in order to make use of this script in my own work.
+
+Based on "iOSList – The jQuery iOS (iPhone/iPad/iPod) Alphabetical Contact List" by brianhadaway.
 http://www.brianhadaway.com/iphone-apple-style-alphabetical-contact-lists-in-html-css-javascript-jquery/
 
 Dual licensed under the MIT and GPL licenses.
  * http://www.opensource.org/licenses/mit-license.php
  * http://www.gnu.org/copyleft/gpl.html
 
-Author: Brian C. Hadaway
+New Author: Graham P. Heath
